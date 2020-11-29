@@ -25,6 +25,10 @@ Main Projects:
 - You need to submit a comprehensive project that tests your awareness and readiness for the freelancing work’s basic requirements
 
 
-#dataanalysis #python #udacity
-mt Certificate : https://drive.google.com/file/d/1ctLbPOMXUJA0c0Po7z9B14Wmd2yNxiUP/view?usp=sharing
+
+![alt text](https://github.com/Kareem-negm/data-analysis-nanodegree-projects/blob/master/SharedScreenshotsd.jpg)
+
+
+
+my Certificate https://drive.google.com/file/d/1ctLbPOMXUJA0c0Po7z9B14Wmd2yNxiUP/view?usp=sharing
 
